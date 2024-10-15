@@ -169,7 +169,7 @@ Contributions to this project are welcome. Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+<a href="https://app.commanddash.io/agent/github_kobishaha_openai-client"><img src="https://img.shields.io/badge/AI-Code%20Agent-EB9FDA"></a>
 ## Support
 
 If you encounter any problems or have any questions, please open an issue in the GitHub repository.
